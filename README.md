@@ -1,7 +1,7 @@
 # Numpy in Python
 
->   -Numpy là một **thư viện** của python. Đây là thư viện **cốt lõi** cho scientific computing. Bao gồm các tác vụ xử lý như: mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation, v.v...
->   - Sử dụng Numpy, các toán tử toán học và logic có thể thực hiện được. 
+>- Numpy là một **thư viện** của python. Đây là thư viện **cốt lõi** cho scientific computing. Bao gồm các tác vụ xử lý như: mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation, v.v...
+>- Sử dụng Numpy, các toán tử toán học và logic có thể thực hiện được. 
 ![](https://i.imgur.com/79EqLFQ.png)
 
 
